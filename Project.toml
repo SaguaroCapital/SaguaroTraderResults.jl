@@ -1,6 +1,6 @@
 name = "SaguaroTraderResults"
 uuid = "1186189a-80ad-45af-add8-08b461ccbf8f"
-authors = ["tylerjthomas9 <tyler@saguarocm.com>"]
+authors = ["Tyler <tyler@saguarocm.com>"]
 version = "0.1.0"
 
 [deps]
