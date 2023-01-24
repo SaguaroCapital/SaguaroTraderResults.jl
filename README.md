@@ -10,12 +10,25 @@ Plot/summarize [SaguaroTrader.jl](https://github.com/SaguaroCapital/SaguaroTrade
 
  ## Installation
 
+From the Julia General Registry:
+```julia
+julia> ]  # enters the pkg interface
+pkg> add SaguaroTraderResults
+```
+
+```julia
+julia> using Pkg; Pkg.add("SaguaroTraderResults")
+```
+
+
 From source:
 ```julia
 julia> using Pkg; Pkg.add(url="https://github.com/SaguaroCapital/SaguaroTraderResults.jl/")
 ```
 
 ```julia
+julia> ]  # enters the pkg interface
 Pkg> add https://github.com/SaguaroCapital/SaguaroTraderResults.jl/
 ```
+
 
