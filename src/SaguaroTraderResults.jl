@@ -9,6 +9,7 @@ using Statistics
 
 include("calculations.jl")
 include("plots.jl")
+include("precompile.jl")
 
 export
     # calculations
